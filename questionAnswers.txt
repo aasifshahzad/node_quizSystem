@@ -1,0 +1,63 @@
+Certainly! Here are the 10 multiple-choice questions about TypeScript with options provided in the specified format:
+
+**Question 1:** What is TypeScript primarily used for?
+
+A) ["Building mobile applications", "Writing server-side code", "Developing web applications", "Enhancing JavaScript with static types"]
+
+**Answer:** ["Enhancing JavaScript with static types"]
+
+**Question 2:** Which keyword is used to declare a variable with a specific type in TypeScript?
+
+A) ["var", "let", "const", "type"]
+
+**Answer:** ["type"]
+
+**Question 3:** TypeScript supports which of the following in JavaScript?
+
+A) ["Dynamic typing", "Static typing", "Both dynamic and static typing", "No typing at all"]
+
+**Answer:** ["Static typing"]
+
+**Question 4:** What is the purpose of TypeScript interfaces?
+
+A) ["To define classes", "To create instances of objects", "To define the shape of objects", "To declare variables"]
+
+**Answer:** ["To define the shape of objects"]
+
+**Question 5:** Which TypeScript feature allows you to use the features of the latest ECMAScript versions in your code?
+
+A) ["Type inference", "Modules", "Generics", "Downlevel"]
+
+**Answer:** ["Downlevel"]
+
+**Question 6:** In TypeScript, what is the keyword used to declare a function that doesn't return any value?
+
+A) ["void", "null", "undefined", "empty"]
+
+**Answer:** ["void"]
+
+**Question 7:** What is the purpose of TypeScript's `readonly` modifier?
+
+A) ["To make a variable constant", "To prevent a class from being inherited", "To specify optional properties in an interface", "To declare a variable without a type"]
+
+**Answer:** ["To make a variable constant"]
+
+**Question 8:** Which TypeScript construct allows you to create reusable code templates with placeholder types?
+
+A) ["Interfaces", "Enums", "Generics", "Decorators"]
+
+**Answer:** ["Generics"]
+
+**Question 9:** Which of the following is NOT a valid primitive data type in TypeScript?
+
+A) ["number", "boolean", "object", "string"]
+
+**Answer:** ["object"]
+
+**Question 10:** What is the TypeScript equivalent of a union type in JavaScript?
+
+A) ["any", "never", "[]", "|"]
+
+**Answer:** ["|"]
+
+These questions should provide you with a clear understanding of TypeScript concepts, and the multiple-choice format with options will make it easier to test your knowledge.
